@@ -1,2 +1,2 @@
 # JS-Games
-- [TaipinkuGames]: https://yizi-yeh.github.io/JS-Games/TaipinkuGame/taipinku.html
+- TaipinkuGames[TaipinkuGames]: https://yizi-yeh.github.io/JS-Games/TaipinkuGame/taipinku.html
